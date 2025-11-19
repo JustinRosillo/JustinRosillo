@@ -28,7 +28,7 @@ I enjoy building scalable, efficient systems and learning technologies that crea
 
 ## 📄 Download my CV
 <p align="center">
-  <a href="./JustinRosillo_CV_2025.pdf" target="_blank">
+  <a href="./JustinRosillo_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
 </p>
