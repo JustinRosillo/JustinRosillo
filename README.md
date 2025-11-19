@@ -1,126 +1,102 @@
 <h1 align="center">👋 Hello! I’m Justin Rosillo</h1>
 
 <p align="center">
-  <!-- LANGUAGE SWITCH -->
-  <a href="#english">
-    <img src="https://img.shields.io/badge/English-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-  <a href="#espanol">
-    <img src="https://img.shields.io/badge/Español-4CAF50?style=for-the-badge&logo=google-translate&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- CONTACT BADGES -->
   <a href="mailto:jxavy1597@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook_Email-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook_Email-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email" />
+  </a>
+  <a href="mailto:jrosillop@est.ups.edu.ec" target="_blank">
+    <img src="https://img.shields.io/badge/UPS_Email-003366?style=for-the-badge&logo=maildotru&logoColor=white" alt="UPS Email" />
   </a>
   <a href="https://www.linkedin.com/in/justin-rosillo-34440b261/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/593992233724" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 ---
-
-# 📄 **Download my CV**
-<p align="center">
-  <a href="https://github.com/JustinRosillo/JustinRosillo/blob/main/JustinRosillo_CV_2025.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 🇬🇧 <a id="english"></a> **English Version**
 
 ## 🧑‍💻 About Me  
-I’m a **Computer Engineering student** focused on software development and backend integration.  
-I work with **C# / .NET**, **Razor (.cshtml)**, **Visual Studio**, and **REST APIs**.  
-I enjoy solving real problems with clean, efficient, and scalable code.
+I’m a **Computer Engineering student** passionate about software development and real-world problem solving.  
+I specialize in **C# / .NET**, **Razor (.cshtml)**, and **API design** with **Visual Studio**.  
+I also have strong foundations in **Python**, **data analysis**, and **machine learning**.  
+
+I enjoy building scalable, efficient systems and learning technologies that create meaningful business impact.
+
+---
+
+## 📄 Download my CV
+<p align="center">
+  <a href="./JustinRosillo_CV_2025.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
+</p>
 
 ---
 
 ## 💼 Professional Experience  
+**Ideal Alambrec S.A. · Development Intern** *(Quito, Ecuador)*  
+*2025 – 6 months*  
+- Developed internal web modules using **C#**, **ASP.NET MVC**, and **Razor (.cshtml)**.  
+- Designed and consumed **RESTful APIs** for backend integration.  
+- Collaborated on testing, debugging, and deployment with **Visual Studio** and **Postman**.  
 
-### **Ideal Alambrec S.A – Development Intern** (2025 – Present)  
-- Built internal applications using **C#**, **ASP.NET MVC**, and **Razor**.  
-- Implemented and consumed **RESTful APIs**.  
-- Collaborated in debugging, testing, and improving internal modules.
+**Ransa · IT Intern** *(Quito, Ecuador)*  
+*2023 – 6 months*  
+- Provided technical support for enterprise hardware and professional applications.  
+- Assisted in automation and maintenance of internal systems.
 
-### **Ransa – IT Intern** (2023)  
-- Maintained enterprise hardware & software.  
-- Supported automation and internal application troubleshooting.
+---
+
+## 🎓 Education  
+- **B.Sc. in Computer Engineering** — *Universidad Politécnica Salesiana* (Expected 2025)  
+- **High School Diploma in Science** — *Unidad Educativa “Pedro Carbo”* (2015)  
+
+---
+
+## 📜 Certifications  
+- **Introduction to Programming with Python** — Coursera (2025)  
+- **Python Programming** — Coursera (2025)  
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,python,cpp,js,html,css,git,sqlserver&perline=5" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,python,cpp,js,html,css,sqlserver,git&perline=5" alt="Tech Stack" />
 </p>
 
+- **C# / .NET** — API and backend development with Visual Studio  
+- **Razor (.cshtml)** — Dynamic front-end integration with .NET MVC  
+- **Python** — Data analysis, ML models, and scripting  
+- **SQL Server** — Queries, stored procedures, and data management  
+- **JavaScript / HTML / CSS** — Front-end interaction and responsive design  
+
 ---
 
-## 🎓 Education  
-- **B.Sc. Computer Engineering** – Universidad Politécnica Salesiana (2025)
-- **Science High School Diploma** – Unidad Educativa Pedro Carbo (2015)
-
----
-
-## 📂 Projects  
-🔗 *Browse my repositories:*  
+## 🚀 Projects  
+> Browse my repositories for code samples and demos.  
 <p align="center">
   <a href="https://github.com/JustinRosillo?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/My--Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="My Repositories" />
   </a>
 </p>
 
 ---
 
----
-
-# 🇪🇸 <a id="espanol"></a> **Versión en Español**
-
-## 🧑‍💻 Sobre mí  
-Soy estudiante de **Ingeniería en Ciencias de la Computación**, especializado en desarrollo de software con **C# / .NET**, integración de APIs y creación de interfaces con **Razor (.cshtml)**.  
-Me gusta crear soluciones eficientes, limpias y orientadas a resultados.
+## 🌱 Currently Learning  
+- Advanced **.NET API design** and system integration  
+- **Cloud databases (Azure / SQL Server)**  
+- **Software architecture** and best practices  
 
 ---
 
-## 💼 Experiencia Profesional  
-
-### **Ideal Alambrec S.A – Pasante de Desarrollo** (2025 – Actualidad)  
-- Desarrollo de aplicaciones empresariales con **C#** y **ASP.NET MVC**.  
-- Creación y consumo de **APIs REST** en sistemas internos.  
-- Pruebas, depuración y mejoras de módulos internos usando **Visual Studio**.
-
-### **Ransa – Pasante de TI** (2023)  
-- Soporte técnico a hardware y software corporativo.  
-- Automatización y mantenimiento de aplicaciones internas.
-
----
-
-## 🛠️ Habilidades Técnicas  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,python,cpp,js,html,css,git,sqlserver&perline=5" />
-</p>
-
----
-
-## 🎓 Educación  
-- **Ingeniería en Ciencias de la Computación** – Universidad Politécnica Salesiana (2025)  
-- **Bachillerato en Ciencias** – Unidad Educativa Pedro Carbo (2015)
-
----
-
-## 📂 Proyectos  
-🔗 *Explora mis repositorios:*  
+## 📫 Let’s Connect  
 <p align="center">
-  <a href="https://github.com/JustinRosillo?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/justin-rosillo-34440b261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jxavy1597@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
-
----
