@@ -18,15 +18,15 @@
 ---
 
 ## 🧑‍💻 About Me  
-I’m a **Computer Engineering student** passionate about software development and real-world problem solving.  
-I specialize in **C# / .NET**, **Razor (.cshtml)**, and **API design** with **Visual Studio**.  
-I also have strong foundations in **Python**, **data analysis**, and **machine learning**.  
+Computer Engineering student and software developer focused on building business-oriented solutions with **C# / .NET**, **ASP.NET MVC**, **SQL Server**, and **REST APIs**.
 
-I enjoy building scalable, efficient systems and learning technologies that create meaningful business impact.
+I have experience developing internal enterprise systems, inventory and quotation platforms, desktop applications, and institutional web solutions for private clients and organizations.
+
+My work combines backend development, database design, API integration, and practical problem solving with a strong focus on scalable and functional software.
 
 ---
 
-## 📄 Download my CV
+## 📄 Professional Resume
 <p align="center">
   <a href="./JustinRosillo_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
@@ -36,21 +36,44 @@ I enjoy building scalable, efficient systems and learning technologies that crea
 ---
 
 ## 💼 Professional Experience  
-**Ideal Alambrec S.A. · Development Intern** *(Quito, Ecuador)*  
-*2025 – 6 months*  
-- Developed internal web modules using **C#**, **ASP.NET MVC**, and **Razor (.cshtml)**.  
-- Designed and consumed **RESTful APIs** for backend integration.  
-- Collaborated on testing, debugging, and deployment with **Visual Studio** and **Postman**.  
 
-**Ransa · IT Intern** *(Quito, Ecuador)*  
-*2023 – 6 months*  
-- Provided technical support for enterprise hardware and professional applications.  
-- Assisted in automation and maintenance of internal systems.
+### Freelance Software Developer *(2025 – Present)*  
+- Developed business software solutions for private clients using **C#**, **.NET**, **SQL Server**, and **Windows Forms**.  
+- Designed inventory and quotation management systems with database integration and reporting modules.  
+- Built desktop applications focused on business process automation and operational efficiency.
+
+### Team Lead / Web Developer *(2026)*  
+- Led a small development team and coordinated an intern during the creation of an institutional website for a foundation.  
+- Managed project planning, frontend implementation, and delivery process.
+
+### Ideal Alambrec S.A. · Development Intern *(2025)*  
+- Developed internal web modules using **ASP.NET MVC**, **Razor (.cshtml)**, and **RESTful APIs**.  
+- Worked with backend integration, debugging, testing, and deployment using **Visual Studio** and **Postman**.
+
+### Ransa · IT Intern *(2023)*  
+- Provided technical support for enterprise hardware and software.  
+- Assisted in maintenance and internal system support.
+
+---
+
+## 🏗️ Current Project  
+
+### Fixed Assets Management System  
+Currently participating in the development of an enterprise-grade **Fixed Assets Management System** using:
+
+- **ASP.NET MVC**
+- **C# / .NET**
+- **SQL Server**
+- **Razor (.cshtml)**
+- Repository and service architecture
+- Authentication and business modules
+
+Focused on asset administration, inventory control, reporting, and enterprise workflow management.
 
 ---
 
 ## 🎓 Education  
-- **B.Sc. in Computer Engineering** — *Universidad Politécnica Salesiana* (Expected 2025)  
+- **B.Sc. in Computer Engineering** — *Universidad Politécnica Salesiana* (Expected 2026)  
 - **High School Diploma in Science** — *Unidad Educativa “Pedro Carbo”* (2015)  
 
 ---
@@ -63,19 +86,22 @@ I enjoy building scalable, efficient systems and learning technologies that crea
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,python,cpp,js,html,css,sqlserver,git&perline=5" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,python,cpp,js,html,css,git,github,mysql&perline=6" alt="Tech Stack" />
 </p>
 
-- **C# / .NET** — API and backend development with Visual Studio  
-- **Razor (.cshtml)** — Dynamic front-end integration with .NET MVC  
-- **Python** — Data analysis, ML models, and scripting  
-- **SQL Server** — Queries, stored procedures, and data management  
-- **JavaScript / HTML / CSS** — Front-end interaction and responsive design  
+- **C# / .NET** — Enterprise applications, APIs, MVC architecture  
+- **ASP.NET MVC / Razor** — Dynamic web applications and backend integration  
+- **SQL Server** — Database design, queries, procedures, reporting  
+- **Windows Forms** — Administrative desktop systems  
+- **REST APIs** — Backend communication and integration  
+- **Python** — Data analysis and scripting  
+- **Git / GitHub** — Version control and collaborative development
 
 ---
 
 ## 🚀 Projects  
 > Browse my repositories for code samples and demos.  
+
 <p align="center">
   <a href="https://github.com/JustinRosillo?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/My--Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="My Repositories" />
@@ -84,19 +110,21 @@ I enjoy building scalable, efficient systems and learning technologies that crea
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced **.NET API design** and system integration  
-- **Cloud databases (Azure / SQL Server)**  
-- **Software architecture** and best practices  
+## 🌱 Currently Improving  
+
+- Enterprise software architecture  
+- Advanced backend development with .NET  
+- Database optimization and SQL Server administration  
+- Scalable system design and software best practices
 
 ---
 
 ## 📫 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/justin-rosillo-34440b261/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:jxavy1597@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email_Me-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_Me-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Me" />
   </a>
 </p>
